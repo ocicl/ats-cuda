@@ -4,6 +4,6 @@ Incudine port of the ATS library by Juan Pampin
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/ormf/ats-cuda.git |
-| commit  | 4caf314                                  |
+| commit  | 0e5f77a                                  |
 | systems | ats-cuda                                 |
 |---------+------------------------------------------|
